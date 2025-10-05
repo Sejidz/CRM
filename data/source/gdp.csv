@@ -1,13 +1,13 @@
-﻿"Perioden"; "Regio's"           ; "Bbp (marktprijzen) (mln euro)"; "Bbp per inwoner (euro)"; "Bbp, volumemutaties (%)"; "Bruto toegevoegde waarde, volumemutaties (%)"; "Toegevoegde waarde (bruto, basisprijzen) (mln euro)"
-"2022*"   ; "Groningen (PV)"    ; "   32566"                     ; "   55332"              ; "     1.7"               ; "     2.1"                                    ; "   29211"
-"2022*"   ; "Fryslân (PV)"      ; "   25490"                     ; "   39052"              ; "     3.5"               ; "     4.0"                                    ; "   22864"
-"2022*"   ; "Drenthe (PV)"      ; "   18434"                     ; "   37146"              ; "     2.8"               ; "     3.2"                                    ; "   16535"
-"2022*"   ; "Overijssel (PV)"   ; "   53172"                     ; "   45476"              ; "     3.8"               ; "     4.2"                                    ; "   47694"
-"2022*"   ; "Flevoland (PV)"    ; "   17303"                     ; "   40100"              ; "     4.3"               ; "     4.8"                                    ; "   15521"
-"2022*"   ; "Gelderland (PV)"   ; "   95416"                     ; "   45360"              ; "     3.8"               ; "     4.3"                                    ; "   85586"
-"2022*"   ; "Utrecht (PV)"      ; "   88660"                     ; "   64928"              ; "     4.0"               ; "     4.5"                                    ; "   79527"
-"2022*"   ; "Noord-Holland (PV)"; "  203766"                     ; "   70285"              ; "     6.7"               ; "     7.2"                                    ; "  182774"
-"2022*"   ; "Zuid-Holland (PV)" ; "  200451"                     ; "   53597"              ; "     3.5"               ; "     4.0"                                    ; "  179802"
-"2022*"   ; "Zeeland (PV)"      ; "   17839"                     ; "   46205"              ; "     4.7"               ; "     5.2"                                    ; "   16001"
-"2022*"   ; "Noord-Brabant (PV)"; "  143315"                     ; "   55475"              ; "     4.4"               ; "     4.9"                                    ; "  128552"
-"2022*"   ; "Limburg (PV)"      ; "   54104"                     ; "   48433"              ; "     2.9"               ; "     3.4"                                    ; "   48531"
+﻿"Perioden";"Regio's";"Bbp (marktprijzen) (mln euro)";"Bbp per inwoner (euro)";"Bbp, volumemutaties (%)";"Bruto toegevoegde waarde, volumemutaties (%)";"Toegevoegde waarde (bruto, basisprijzen) (mln euro)"
+"2022*";"Groningen (PV)";32566;55332;1,7;2,1;29211
+"2022*";"Fryslân (PV)";25490;39052;3,5;4;22864
+"2022*";"Drenthe (PV)";18434;37146;2,8;3,2;16535
+"2022*";"Overijssel (PV)";53172;45476;3,8;4,2;47694
+"2022*";"Flevoland (PV)";17303;40100;4,3;4,8;15521
+"2022*";"Gelderland (PV)";95416;45360;3,8;4,3;85586
+"2022*";"Utrecht (PV)";88660;64928;4;4,5;79527
+"2022*";"Noord-Holland (PV)";203766;70285;6,7;7,2;182774
+"2022*";"Zuid-Holland (PV)";200451;53597;3,5;4;179802
+"2022*";"Zeeland (PV)";17839;46205;4,7;5,2;16001
+"2022*";"Noord-Brabant (PV)";143315;55475;4,4;4,9;128552
+"2022*";"Limburg (PV)";54104;48433;2,9;3,4;48531
